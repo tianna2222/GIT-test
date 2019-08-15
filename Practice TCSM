@@ -1,0 +1,1 @@
+write.table(SGP_Adam_EOG_PRELIM_2019, file = "V:/2019_SGP_Adam_EOG_PRELIM.txt", sep = "|", row.names = FALSE, col.names = TRUE, quote = FALSE)
